@@ -6,3 +6,4 @@ Quienes han aportado a este repositorio. Agrega tu renglón con un pull request 
 |---|---|---|
 | Israel Castro | Contador público | Ciudad de México |
 | José Pérez | Contador público | Monterrey |
+| Luis Alvarado | Contador público | Saltillo |
